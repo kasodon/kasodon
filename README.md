@@ -1,4 +1,4 @@
-<img align="right" src="https://twitter.com/Onyedika___/status/1316530823672274944/photo/1" alt="Igbo culture regalia" width=350px height=465px/>
+<img align="right" src="https://github.com/kasodon/kasodon/blob/main/mhx4zK8n_400x400.jpg" alt="Igbo culture regalia" width=350px height=465px/>
 
 ### Hi, I'm Onyedika 👋
 
