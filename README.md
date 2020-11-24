@@ -1,4 +1,16 @@
-### Hi there 👋
+<img align="right" src="https://github.com/kmt901/kmt901/blob/master/kaya_illustration.PNG" alt="Illustration of Kaya speaking at a conference with coding bubbles in background" width=350px height=465px/>
+
+### Hi, I'm Onyedika 👋
+
+I’m an Front-End developer, Legal engineer and blockchain enthusiast. Over 3 years now, I've used latest web toolings to create masterpiece on the internet. I focus more on the MEAN stack path, but I work with reactJs too. fun fact about me is that I'm a lawyer in equity, Yaay! lawyers code too huan. I currently work as a Senior Software Engineer at CribMd. 
+
+- 📱  I’m currently working on CribMd.
+- 🤓 I’m currently expanding my knowledge on Blockchain and Cryptos.
+- 💬  Ask me about MEAN development, BlockChain, Legal Tech.
+- 📫  How to reach me: edeworonyedika@gmail.com or Twitter [@Onyedika___](twitter.com/Onyedika___)
+- 😄  Pronouns: he/him
+- 🚴🏽‍♀️  Fun fact: I love playing racing games!
+
 
 <!--
 **kasodon/kasodon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
