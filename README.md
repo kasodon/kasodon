@@ -1,28 +1,41 @@
-<img align="right" src="https://github.com/kasodon/kasodon/blob/main/mhx4zK8n_400x400.jpg" alt="Igbo culture regalia" width=300px height=300px/>
+# Hi there, I'm Onyedika 👋 
 
-### Hi, I'm Onyedika 👋
 
-I’m an Front-End developer, Legal engineer and blockchain enthusiast. Over 3 years now, I've used latest web toolings to create masterpiece on the internet. I focus more on the MEAN stack path, but I work with reactJs too. fun fact about me is that I'm a lawyer in equity, Yaay! lawyers code too huan. I currently work as a Senior Software Engineer at CribMd. 
+## I’m an Software engineer, Legal engineer and Web3 developer!!
 
-- 📱  I’m currently working on CribMd.
-- 🤓 I’m currently expanding my knowledge on Blockchain and Cryptos.
-- 💬  Ask me about MEAN development, BlockChain, Legal Tech.
-- 📫  How to reach me: edeworonyedika@gmail.com or Twitter [@Onyedika___](twitter.com/Onyedika___)
+- 📱  I’m currently work remotely.
+- 🤓 I’m currently expanding my knowledge on Blockchain and Cryptocurrencies.
+- 💬  Ask me about MEAN stack, MERN stack, BlockChain, and Legal Tech.
+- 📫  How to reach me: edeworonyedika@gmail.com or Twitter [@web3_overlord](twitter.com/web3_overlord)
 - 😄  Pronouns: he/him
-- 🚴🏽‍♀️  Fun fact: I love playing racing games!
+- 🚴🏽‍♀️  Fun fact: I love to play racing games!
 
+### Connect with me:
 
-<!--
-**kasodon/kasodon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![website](./img/globe-light.svg)](https://onyedika.xyz#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://onyedika.xyz#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![Twitter](./img/twitter-light.svg)](https://twitter.com/web3_overlord#gh-light-mode-only)
+[![Twitter](./img/twitter-dark.svg)](https://twitter.com/web3_overlord#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![LinkedIn](./img/linkedin-light.svg)](https://www.linkedin.com/in/edewor-onyedika#gh-light-mode-only)
+[![LinkedIn](./img/linkedin-dark.svg)](https://www.linkedin.com/in/edewor-onyedika#gh-dark-mode-only)
+&nbsp;
 
-Here are some ideas to get you started:
+### Languages and Tools:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Gatsby" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" style="padding-right:10px;" />
+<br />
+<br />
+
+---
+
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Onyedika's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kasodon&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
