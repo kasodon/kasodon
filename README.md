@@ -12,14 +12,14 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://onyedika.xyz#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://onyedika.xyz#gh-dark-mode-only)
+[![website](./globe-light.svg)](https://onyedika.xyz#gh-light-mode-only)
+[![website](./globe-dark.svg)](https://onyedika.xyz#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![Twitter](./img/twitter-light.svg)](https://twitter.com/web3_overlord#gh-light-mode-only)
-[![Twitter](./img/twitter-dark.svg)](https://twitter.com/web3_overlord#gh-dark-mode-only)
+[![Twitter](./twitter-light.svg)](https://twitter.com/web3_overlord#gh-light-mode-only)
+[![Twitter](./twitter-dark.svg)](https://twitter.com/web3_overlord#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![LinkedIn](./img/linkedin-light.svg)](https://www.linkedin.com/in/edewor-onyedika#gh-light-mode-only)
-[![LinkedIn](./img/linkedin-dark.svg)](https://www.linkedin.com/in/edewor-onyedika#gh-dark-mode-only)
+[![LinkedIn](./linkedin-light.svg)](https://www.linkedin.com/in/edewor-onyedika#gh-light-mode-only)
+[![LinkedIn](./linkedin-dark.svg)](https://www.linkedin.com/in/edewor-onyedika#gh-dark-mode-only)
 &nbsp;
 
 ### Languages and Tools:
