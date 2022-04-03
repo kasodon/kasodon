@@ -3,8 +3,8 @@
 
 ## I’m an Software engineer, Legal engineer and Web3 developer!!
 
-- 📱  I’m currently work remotely.
-- 🤓 I’m currently expanding my knowledge on Blockchain and Cryptocurrencies.
+- 📱  I currently work remotely.
+- 🤓 I’m currently expanding my knowledge on Web3 and Cryptocurrencies.
 - 💬  Ask me about MEAN stack, MERN stack, BlockChain, and Legal Tech.
 - 📫  How to reach me: edeworonyedika@gmail.com or Twitter [@web3_overlord](twitter.com/web3_overlord)
 - 😄  Pronouns: he/him
