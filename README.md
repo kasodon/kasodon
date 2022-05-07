@@ -1,14 +1,14 @@
 # Hi there, I'm Onyedika 👋 
 
 
-## I’m an Software engineer, Legal engineer and Web3 developer!!
+## I’m a Frontend engineer, and Web3 developer!!
 
 - 📱  I currently work remotely.
-- 🤓 I’m currently expanding my knowledge on Web3 and Cryptocurrencies.
+- 🤓 I’m currently expanding my knowledge on Web3 and Cryptocurrency.
 - 💬  Ask me about MEAN stack, MERN stack, BlockChain, and Legal Tech.
 - 📫  How to reach me: edeworonyedika@gmail.com or Twitter [@web3_overlord](twitter.com/web3_overlord)
 - 😄  Pronouns: he/him
-- 🚴🏽‍♀️  Fun fact: I love to play racing games!
+- 🚴🏽‍♀️  Fun fact: I love playing Arcade games!
 
 ### Connect with me:
 
