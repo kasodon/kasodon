@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Onyedika</h1>
 <h1 align="center"><a href="https://www.onyedika.xyz/" target="_blank" rel="noreferrer"><img src="https://ik.imagekit.io/onyedika/github-banner_ZVbyqg_0j.png?ik-sdk-version=javascript-1.4.3&updatedAt=1664754858161" alt="portfolio site"/> </a></h1>
-<h3 align="center">I am a software engineer with more than four years of experience</h3>
+<h3 align="center">I am a software engineer with more than four years of experience.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kasodon" alt="kasodon" /></a> </p>
 
