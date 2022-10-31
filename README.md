@@ -16,11 +16,11 @@
 
 - ⚡ Fun fact **Love playing arcade games**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kasodon&show_icons=true&locale=en&layout=compact" alt="kasodon" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kasodon&show_icons=true&locale=en&theme=highcontrast" alt="kasodon" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kasodon&show_icons=true&locale=en" alt="kasodon" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kasodon&theme=highcontrast" alt="kasodon" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kasodon&" alt="kasodon" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kasodon&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="kasodon" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
