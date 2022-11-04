@@ -4,6 +4,8 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kasodon" alt="kasodon" /></a> </p> -->
 
+- ☕️ and Building on [NEAR Protocol](https://near.org/) <img width="64px" height="32px" src="https://www.rexfair.com/wp-content/uploads/2021/07/online-now.gif" alt="status"/>
+
 - 👨‍💻 All of my projects are available at [https://www.onyedika.xyz/](https://www.onyedika.xyz/)
 
 - 📝 I regularly write articles on [https://hackernoon.com/u/onyedika](https://hackernoon.com/u/onyedika)
