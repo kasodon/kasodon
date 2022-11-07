@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.onyedika.xyz/](https://www.onyedika.xyz/)
 
-- 📝 I regularly write articles on [https://hackernoon.com/u/onyedika](https://hackernoon.com/u/onyedika)
+- 📝 I publish technical articles on [https://hackernoon.com/u/onyedika](https://hackernoon.com/u/onyedika)
 
 - 💬 Ask me about **Angular, React, Nodejs, RESTful APIs, Solidity, Smart Contracts, SVG Animation**
 
