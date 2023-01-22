@@ -6,6 +6,8 @@
 
 - ☕️ and Building on [NEAR Protocol](https://near.org/)
 
+- 🛠 Currently building a blockchain startup
+
 - 👨‍💻 All of my projects are available at [https://www.onyedika.xyz/](https://www.onyedika.xyz/)
 
 - 📝 I publish technical articles on [https://hackernoon.com/u/onyedika](https://hackernoon.com/u/onyedika)
@@ -14,9 +16,7 @@
 
 - 📫 How to reach me **edeworonyedika@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1mvp127VmxH5b68onmg0gKmxF6DZTIPUE/view](https://drive.google.com/file/d/1mvp127VmxH5b68onmg0gKmxF6DZTIPUE/view)
-
-- ⚡ Fun fact **Love playing arcade games**
+- 📄 Take a look at my resume [https://drive.google.com/file/d/1mvp127VmxH5b68onmg0gKmxF6DZTIPUE/view](https://drive.google.com/file/d/1mvp127VmxH5b68onmg0gKmxF6DZTIPUE/view)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kasodon&show_icons=true&locale=en&theme=highcontrast" alt="kasodon" /></p>
 
