@@ -6,7 +6,7 @@
 
 - ☕️ and Building on [NEAR Protocol](https://near.org/)
 
-- 🛠 Currently building a blockchain startup
+- 🛠 #Buildl #Buildl #Buildl
 
 - 👨‍💻 All of my projects are available at [https://www.onyedika.xyz/](https://www.onyedika.xyz/)
 
